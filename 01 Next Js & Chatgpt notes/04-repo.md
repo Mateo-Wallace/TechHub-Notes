@@ -1,0 +1,1 @@
+https://github.com/jonathans199/devcon-2023-nextjs-and-gpt
